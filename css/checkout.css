@@ -665,6 +665,7 @@
   .cart-foot-wrap .item-all-del {
     float: left;
     margin-top: 2px;
+    margin-left: 2rem;
   }
   .cart-foot-wrap .cart-foot-r {
     float: right; }
